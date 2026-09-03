@@ -20,6 +20,16 @@ Durante o curso, vou trabalhar com conceitos como:
 - 🤖 Automação
 - E muito mais!
 
+## 📅 Projetos
+
+| Dia | Projeto |
+|---|---|
+| 1 | Gerador de Nome para Bandas |
+| 2 | Calculadora de Gorjeta |
+| 3 | Jogo da Ilha do Tesoura |
+| 4 | Jogo de Pedra, Papel e Tesoura |
+| 5 | 🔒 Em breve... |
+
 
 ## 🎯 Objetivo
 
