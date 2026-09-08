@@ -28,7 +28,9 @@ Durante o curso, vou trabalhar com conceitos como:
 | 2 | Calculadora de Gorjeta |
 | 3 | Jogo da Ilha do Tesoura |
 | 4 | Jogo de Pedra, Papel e Tesoura |
-| 5 | 🔒 Em breve... |
+| 5 | Gerador de Senha Forte |
+| 6 | Reeborg's World |
+| 7 | Jogo da Forca |
 
 
 ## 🎯 Objetivo
