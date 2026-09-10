@@ -22,15 +22,15 @@ Durante o curso, vou trabalhar com conceitos como:
 
 ## 📅 Projetos
 
-| Dia | Projeto |
-|---|---|
-| 1 | Gerador de Nome para Bandas |
-| 2 | Calculadora de Gorjeta |
-| 3 | Jogo da Ilha do Tesoura |
-| 4 | Jogo de Pedra, Papel e Tesoura |
-| 5 | Gerador de Senha Forte |
-| 6 | Reeborg's World |
-| 7 | Jogo da Forca |
+| Dia | Projeto | Conceitos aprendidos |
+|---:|---|---|
+| 01 | Gerador de Nome de Banda | Variáveis, impressão, entrada de dados e manipulação de strings |
+| 02 | Calculadora de Gorjetas | Tipos de dados, conversão de tipos, operações matemáticas e f-strings |
+| 03 | Ilha do Tesouro | Estruturas condicionais e operadores lógicos |
+| 04 | Pedra, Papel e Tesoura | Aleatoriedade e listas |
+| 05 | Gerador de Senhas | Loops, range e listas |
+| 06 | Reeborg's World | Funções, blocos de código, loops e resolução de problemas |
+| 07 | Jogo da Forca | Loops, listas, strings e importação de módulos |
 
 
 ## 🎯 Objetivo
