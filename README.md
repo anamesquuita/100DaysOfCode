@@ -31,6 +31,8 @@ Durante o curso, vou trabalhar com conceitos como:
 | 05 | Gerador de Senhas | Loops, range e listas |
 | 06 | Reeborg's World | Funções, blocos de código, loops e resolução de problemas |
 | 07 | Jogo da Forca | Loops, listas, strings e importação de módulos |
+| 08 | Cifra de César |	Funções, parâmetros e argumentos |
+| 09 |	Leilão às Cegas |	Dicionários e estruturas aninhadas |
 
 
 ## 🎯 Objetivo
